@@ -41,7 +41,7 @@ Coursework: Advanced Mathematics, Statistical Modeling, Algorithm Design, ML Fun
 ## Certifications
 
 - [NVIDIA-Certified Associate: Generative AI LLMs](http://credential.nvidia.com/a55139ae-7814-4c66-bf4a-ca02eff3f239) — Nov 2026
-- NVIDIA DLI: Fundamentals of Deep Learning — Nov 2026
+- [NVIDIA DLI: Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=xHj7_4VvQPa5gsah4WNB5g) — Nov 2026
 - [Calculus for ML & Data Science](https://coursera.org/verify/RVQEJVQ8A7GT) — DeepLearning.AI · Oct 2026
 - [Linear Algebra for ML & Data Science](https://coursera.org/verify/OE4SBPQ959FN) — DeepLearning.AI · Sep 2026
 - [Advanced Learning Algorithms](https://coursera.org/verify/9NHW2Q5U6UDK) — DeepLearning.AI / Stanford · Apr 2026
