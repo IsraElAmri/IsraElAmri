@@ -21,7 +21,7 @@ Coursework: Advanced Mathematics, Statistical Modeling, Algorithm Design, ML Fun
 - **ML & Deep Learning**: TensorFlow/Keras, scikit-learn, Transfer Learning (ResNet50V2), CNNs; PyTorch (notions, NVIDIA courses)
 - **Data Science**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Streamlit
 - **Backend & DevOps**: FastAPI, PostgreSQL, MySQL, Docker, JWT authentication, CI (GitHub Actions)
-- **Other**: Tesseract OCR, RAG pipelines, retrieval evaluation, R (reliability analysis, censored data, Bayesian MCMC)
+- **Other**: Tesseract OCR, RAG pipelines, retrieval evaluation, R (reliability & survival analysis, Kaplan-Meier, censored MLE, Bayesian MCMC)
 
 ---
 
