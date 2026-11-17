@@ -63,9 +63,3 @@ Coursework: Advanced Mathematics, Statistical Modeling, Algorithm Design, ML Fun
 
 - [**memory-game**](https://github.com/IsraElAmri/memory-game) — Celebrity card-matching memory game (HTML/CSS/JS, GitHub Pages)
 - [**engineering-education-analysis**](https://github.com/IsraElAmri/engineering-education-analysis) — Python analysis pipeline component of a 12-person ENSIT team study (simulated data)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraElAmri&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
