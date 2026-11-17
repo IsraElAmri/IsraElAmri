@@ -1,72 +1,71 @@
-# Hi, I'm Isra El Amri 👋
+# Isra El Amri
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=200&section=header&text=Isra%20El%20Amri&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mathematical%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=62&descSize=18" width="100%"/>
-</p>
+Mathematical Engineering & Modeling student at ENSIT, with a focus on machine learning,
+statistical modeling, and data science. Seeking a PFE / end-of-studies internship.
 
-<p align="center">
-  <b>Mathematical Engineering & Modeling Student · ENSIT, Tunisia</b>
-</p>
-
-<p align="center">
-  <a href="mailto:elamriisra3@gmail.com"><img src="https://img.shields.io/badge/Email-elamriisra3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Sousse%2C%20Tunisia-blue?style=flat-square"/>
-</p>
+📍 Sousse, Tunisia · ✉ elamriisra3@gmail.com
 
 ---
 
-## 🛠️ Technical Skills
+## Education
 
-| Domain | Technologies |
-|---|---|
-| **Programming** | Python · C · Java · SQL · HTML/CSS/JS |
-| **ML / Deep Learning** | TensorFlow · Keras · scikit-learn · CNNs · Transfer Learning · Data Augmentation |
-| **Data Science & Statistics** | Pandas · NumPy · Matplotlib · Seaborn · Statistical Modeling · R |
-| **Backend & Tools** | FastAPI · PostgreSQL · Docker · MySQL · Jupyter |
+**B.Sc. Mathematical Engineering & Modeling** — Expected 2027  
+ENSIT — National Higher Engineering School of Tunis  
+Coursework: Advanced Mathematics, Statistical Modeling, Algorithm Design, ML Fundamentals
 
 ---
 
-## 🏆 Certifications
+## Technical Skills
 
-**NVIDIA**
-- 🏅 Generative AI LLMs · *Nov 2026*
-- 🏅 Fundamentals of Deep Learning · *Nov 2026*
-
-**DeepLearning.AI / Stanford University**
-- 🏅 Advanced Learning Algorithms · *Apr 2026*
-- 🏅 Supervised ML: Regression & Classification · *Nov 2025*
-
-**DeepLearning.AI**
-- 🏅 Calculus for ML & Data Science · *Oct 2026*
-- 🏅 Linear Algebra for ML & Data Science · *Sep 2026*
-
-**MIT MicroMasters (edX)**
-- 🏅 Probability — The Science of Uncertainty and Data · *May 2026*
-
-**365 Data Science**
-- 🏅 Intro to Data & Data Science · *Mar 2026*
-
-*In Progress: MIT MicroMasters (General Track) · ML Specialization (DeepLearning.AI / Stanford)*
+- **Languages**: Python, C, Java, SQL, R, HTML/CSS/JavaScript
+- **ML & Deep Learning**: TensorFlow/Keras, scikit-learn, Transfer Learning (ResNet50V2), CNNs; PyTorch (notions, NVIDIA courses)
+- **Data Science**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Streamlit
+- **Backend & DevOps**: FastAPI, PostgreSQL, MySQL, Docker, JWT authentication, CI (GitHub Actions)
+- **Other**: Tesseract OCR, RAG pipelines, retrieval evaluation, R (reliability analysis, censored data, Bayesian MCMC)
 
 ---
 
-## 📂 Projects
+## Featured Projects
 
-| Repository | Description |
-|---|---|
-| [**doc-automation-saas**](https://github.com/IsraElAmri/doc-automation-saas) | Enterprise document automation platform with OCR extraction and vector-based RAG — ITgate Internship |
-| [**intelligent-waste-classification**](https://github.com/IsraElAmri/intelligent-waste-classification) | Deep learning industrial waste classifier (98.23% accuracy, 8 categories, ResNet50V2) — Leoni Internship |
-| [**weibull-parameter-estimation**](https://github.com/IsraElAmri/weibull-parameter-estimation) | Comparative study of 9 Weibull estimation methods on 117K+ Backblaze drive failure records (R + Python) |
-| [**rbob-oil-price-prediction**](https://github.com/IsraElAmri/rbob-oil-price-prediction) | ML time-series forecasting for RBOB gasoline prices with walk-forward validation (96.78% accuracy) |
-| [**gestion-pfe**](https://github.com/IsraElAmri/gestion-pfe) | Final Year Project management desktop app — Java Swing · MySQL · Maven |
-| [**multimedia-library-management**](https://github.com/IsraElAmri/multimedia-library-management) | Multimedia library system in C99 — dynamic linked lists, binary file I/O, multi-role security |
-| [**engineering-education-analysis**](https://github.com/IsraElAmri/engineering-education-analysis) | Statistical study of engineering education systems under AI curriculum integration (Python · scikit-learn) |
+| Repository | Outcome | Stack |
+|---|---|---|
+| [**doc-automation-saas**](https://github.com/IsraElAmri/doc-automation-saas) | Document ingestion, OCR, vector RAG Q&A — 100% faithfulness on 15-item pilot benchmark. ITgate internship. | FastAPI · PostgreSQL · Tesseract · Gemini · Docker |
+| [**intelligent-waste-classification**](https://github.com/IsraElAmri/intelligent-waste-classification) | 98.23% validation accuracy on 8-class waste classification (7,891 images, ResNet50V2). Leoni Wiring Systems internship. | TensorFlow · Keras · ResNet50V2 |
+| [**weibull-parameter-estimation**](https://github.com/IsraElAmri/weibull-parameter-estimation) | Benchmarks 9 Weibull estimation methods on 117,918 drives. MLE/MCMC give realistic lifetimes; failure-only methods give misleading results. | R · Python · SciPy · Streamlit |
+| [**rbob-oil-price-prediction**](https://github.com/IsraElAmri/rbob-oil-price-prediction) | Ridge Regression beats persistence baseline by 18.6% MAE on next-day RBOB price forecasting (2015–2024). | Python · scikit-learn · Streamlit |
+| [**gestion-pfe**](https://github.com/IsraElAmri/gestion-pfe) | Desktop app for academic PFE lifecycle and defense scheduling. | Java (Swing) · JDBC · MySQL |
+| [**multimedia-library-management**](https://github.com/IsraElAmri/multimedia-library-management) | Terminal-based media catalog with dynamic linked lists and binary persistence. | C (C99) |
+
+---
+
+## Certifications
+
+- [NVIDIA-Certified Associate: Generative AI LLMs](http://credential.nvidia.com/a55139ae-7814-4c66-bf4a-ca02eff3f239) — Nov 2026
+- NVIDIA DLI: Fundamentals of Deep Learning — Nov 2026
+- [Calculus for ML & Data Science](https://coursera.org/verify/RVQEJVQ8A7GT) — DeepLearning.AI · Oct 2026
+- [Linear Algebra for ML & Data Science](https://coursera.org/verify/OE4SBPQ959FN) — DeepLearning.AI · Sep 2026
+- [Advanced Learning Algorithms](https://coursera.org/verify/9NHW2Q5U6UDK) — DeepLearning.AI / Stanford · Apr 2026
+- [Supervised ML: Regression & Classification](https://coursera.org/verify/PVE0EFGLHOOX) — DeepLearning.AI / Stanford · Nov 2025
+- [Probability — The Science of Uncertainty and Data](https://courses.edx.org/certificates/eae1bf0d51504592b78d0bf7805938b9) — MIT MicroMasters (edX) · May 2026
+- [Intro to Data & Data Science](https://learn.365datascience.com/c/f5429c768a/) — 365 Data Science · Mar 2026
+
+*In progress: MIT MicroMasters (General Track) · ML Specialization (DeepLearning.AI / Stanford)*
+
+---
+
+## Activities
+
+**NERData Club** — Member; ML workshops and AI/ML collaborative projects
+
+---
+
+## Smaller projects
+
+- [**memory-game**](https://github.com/IsraElAmri/memory-game) — Celebrity card-matching memory game (HTML/CSS/JS, GitHub Pages)
+- [**engineering-education-analysis**](https://github.com/IsraElAmri/engineering-education-analysis) — Python analysis pipeline component of a 12-person ENSIT team study (simulated data)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsraElAmri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraElAmri&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraElAmri&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
