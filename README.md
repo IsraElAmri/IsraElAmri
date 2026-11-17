@@ -1,6 +1,6 @@
 # Isra El Amri
 
-Mathematical Engineering & Modeling student at ENSIT, with a focus on machine learning,
+Mathematical Engineering & Modeling student at ENSIT, with a focus on AI,
 statistical modeling, and data science. Seeking a PFE / end-of-studies internship.
 
 📍 Sousse, Tunisia · ✉ elamriisra3@gmail.com
